@@ -1,0 +1,12 @@
+{
+  "name": "basketball-tournament-task",
+  "version": "1.0.0",
+  "description": "- Napisati JavaScript / C# program za simulaciju košarkaškog turnira na Olimpijskim igrama.\r Biće potrebno da simulirate grupnu fazu i eliminacionu fazu turnira.\r - Zadatak je potrebno uraditi koristeći isključivo JavaScript / C#, bez upotrebe eksternih paketa.\r - Zadatak se pokreće komandom: `npm start` / `dotnet run` i zatim u std output-u prikazuje simulaciju turnira.\r - Ukoliko zadatak radiš u JavaScript-u koristi `node v20.17.0`, a ukoliko ga radiš u C#-u koristi `.NET 8`.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "keywords": [],
+  "author": "Stefan A. Kuehne",
+  "license": "ISC"
+}
